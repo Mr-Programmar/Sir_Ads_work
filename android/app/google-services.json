@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120086028008",
+    "project_id": "flutterexd",
+    "storage_bucket": "flutterexd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120086028008:android:ce837d99555329caebb35d",
+        "android_client_info": {
+          "package_name": "com.exd.exd_morning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120086028008-rnaah419p8dp0vvbi46ql199mio6goia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzLgGUcOQJ9rIH9g_5XXdZFwObWGgCryc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120086028008-rnaah419p8dp0vvbi46ql199mio6goia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
